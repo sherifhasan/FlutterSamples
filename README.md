@@ -1,5 +1,5 @@
 # 27 Flutter Samples updated daily 
-#Intro
+# Intro
 The goal of this project is to enable Mobile developers  to learn the new Flutter
 Make sure that Flutter is installed in your machine,If not you can install it from <a href="https://flutter.io/docs/get-started/install">here</a>
 I recommend using <a href="https://code.visualstudio.com/">Visual Studio</a> with these samples. 
