@@ -22,12 +22,14 @@ class MyApp extends StatelessWidget {
             ),
             Flexible(
               flex: 1,
+              fit: FlexFit.tight,
               child: new Container(
                 color: Colors.green,
               ),
             ),
             Flexible(
               flex: 3,
+              fit: FlexFit.loose,
               child: new Container(
                 color: Colors.deepOrange,
               ),
