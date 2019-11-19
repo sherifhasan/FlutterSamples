@@ -1,0 +1,1 @@
+enum LoadMoreStatus { LOADING, STABLE }
