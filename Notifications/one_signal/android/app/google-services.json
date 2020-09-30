@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828950262126",
+    "firebase_url": "https://one-signal-cd99a.firebaseio.com",
+    "project_id": "one-signal-cd99a",
+    "storage_bucket": "one-signal-cd99a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828950262126:android:0280149a81f35c9622517f",
+        "android_client_info": {
+          "package_name": "com.example.one_signal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828950262126-3maflbgpot42cpufn4ecs4fagrj0elr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIj0vkAeu5FOz6GaAOPq5HDdI-1ufo_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828950262126-3maflbgpot42cpufn4ecs4fagrj0elr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
